@@ -1,1 +1,2 @@
-./packages/functional_widget/README.md
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
